@@ -12,7 +12,6 @@ Após serem definidas os integrantes de cada equipe, a equipe deve escolher um d
 
 [RA - Realidade Aumentada](README.md#realidade-virtual-aumentada-ra "RA - Realidade Aumentada"): smartphone (ver mundo virtual sobre o real)  
 
-<!--
 ### Tema C
 
 [RL - Realidade aLternativa](README.md#realidade-virtual-alternativa "RL - Realidade aLternativa"): GPS ("passear" pelo mundo real)  
@@ -20,8 +19,6 @@ Após serem definidas os integrantes de cada equipe, a equipe deve escolher um d
 ### Tema D
 
 [MV - Metaverso](README.md#metaverso "MV - Metaverso"): propiciar cooperação / colaboração, e pode usar RVi/RA/RA  
-
--->
 
 ----------
 
