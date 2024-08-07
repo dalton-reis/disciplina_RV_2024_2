@@ -8,28 +8,24 @@ Total de Alunos: 42 alunos (42 / 7 = 6 equipes)
 
 ### Tema A
 
-> [!WARNING]  
 > máximo 2 equipes.  
 
 [RVi - Realidade Virtual Imersiva](README.md#realidade-virtual-imersiva-rv--rvi "RVi - Realidade Virtual Imersiva"): óculos (só mundo virtual)  
 
 ### Tema B
 
-> [!WARNING]  
 > máximo 2 equipes.  
 
 [RA - Realidade Aumentada](README.md#realidade-virtual-aumentada-ra "RA - Realidade Aumentada"): smartphone (ver mundo virtual sobre o real)  
 
 ### Tema C
 
-> [!WARNING]  
 > máximo 1 equipes.  
 
 [RL - Realidade aLternativa](README.md#realidade-virtual-alternativa "RL - Realidade aLternativa"): GPS ("passear" pelo mundo real)  
 
 ### Tema D
 
-> [!WARNING]  
 > máximo 1 equipes.  
 
 [MV - Metaverso](README.md#metaverso "MV - Metaverso"): propiciar cooperação / colaboração, e pode usar RVi/RA/RA  
