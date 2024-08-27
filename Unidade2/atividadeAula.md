@@ -1,6 +1,6 @@
 <!--  FIXME:Inicio semestre -->  
 
-[Unidade2 - Escolha do Hardware]: <https://ava3.furb.br/mod/forum/view.php?id=898871> "HardwareEScolha"  
+[Unidade2 - Escolha do Hardware]: <https://ava3.furb.br/mod/forum/view.php?id=991954> "HardwareEScolha"  
 
 # Unidade 2 - Atividade  
 
