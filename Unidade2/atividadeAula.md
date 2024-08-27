@@ -10,10 +10,10 @@ Bom, agora que sua equipe já tem definido o [Tema](../Unidade1/atividadeAula.md
 
 ### 2A - Apresentação Atividade (equipe)
 
-\[peso: 8,0] Nesta atividade cada equipe deve escolher quatro hardwares (por exemplo, [Hardwares de Realidade Virtual](#hardwares-de-realidade-virtual "Hardwares de Realidade Virtual") que tenham relação com o [Tema](../Unidade1/atividadeAula.md#temas "Tema") definido para sua equipe e prepare uma apresentação demonstrando as suas [principais características](#características-dos-hardwares "principais características"). A equipe deve postar os slides em PDF antes de apresentar a atividade no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
+\[peso: 8,0] Nesta atividade cada equipe deve escolher três hardwares (por exemplo, [Hardwares de Realidade Virtual](#hardwares-de-realidade-virtual "Hardwares de Realidade Virtual") que tenham relação com o [Tema](../Unidade1/atividadeAula.md#temas "Tema") definido para sua equipe e prepare uma apresentação demonstrando as suas [principais características](#características-dos-hardwares "principais características"). A equipe deve postar os slides em PDF antes de apresentar a atividade no GitHub criado pelo professor para sua equipe (na pasta unidade_2).  
 <!-- Como parâmetro (aproximado) usem no máximo uns 5 minutos para cada aplicativo e 5 minutos para discussão. -->  
 
-**Atenção**: a escolha dos quatro hardwares devem ser postados no AVA3 em [Unidade2 - Escolha do Hardware] e não teve ter hardware repetido.  
+**Atenção**: a escolha dos três hardwares devem ser postados no AVA3 em [Unidade2 - Escolha do Hardware] e não teve ter hardware repetido.  
 
 
 ### 2B - Resumo texto complementar (individual)
