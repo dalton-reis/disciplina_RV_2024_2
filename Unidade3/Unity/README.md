@@ -100,9 +100,7 @@ E assista o vídeo em (2020-2): <https://web.microsoftstream.com/video/5c163263-
 ### VSCode
 
 - extensões
-  - Debugger: <https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug>
-  - <https://marketplace.visualstudio.com/items?itemName=Tobiah.unity-tools>
-  - <https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets>
+  - <https://marketplace.visualstudio.com/items?itemName=VisualStudioToolsForUnity.vstuc>  
 
 ## Linguagem de Programação (C#)
 
