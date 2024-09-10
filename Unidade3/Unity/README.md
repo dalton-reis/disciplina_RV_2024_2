@@ -4,6 +4,10 @@
 
 <http://unity.com>
 
+## Planos e preços
+
+<https://unity.com/products>  
+
 Era Unity3D, agora só Unity (não tinha parte 2D).
 
 ## Downloads: Unity Hub
@@ -133,14 +137,17 @@ E assista o vídeo em (2020-2): <https://web.microsoftstream.com/video/5c163263-
 
 - Android [Unity Remote 5](<https://play.google.com/store/apps/details?id=com.unity3d.mobileremote>)
 - [Unity Reflect](<https://play.google.com/store/apps/details?id=com.Unity.Reflect.Viewer>)
-- [Reflect](<https://unity.com/products/unity-reflect>)
 
 ## Assets
 
 - [AssetStore](<https://assetstore.unity.com>)
-- Hunter Pro
+- [Hunter Pro](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)  
 
-## VR->RA
+## Realidade Virtual
+
+Usar os templates disponíveis ao criar um novo projeto.  
+
+### VR->RA
 
 <https://developer.vuforia.com>
 
