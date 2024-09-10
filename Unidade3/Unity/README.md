@@ -40,7 +40,7 @@ Para ter uma visão geral do Unity veja a imagem abaixo:
 ![Visão Geral](./Unity_VisaoGeral.png "Visão Geral")
 
 E assista o vídeo em (2020-2): <https://web.microsoftstream.com/video/5c163263-3938-464d-a10a-efc82fbab600>  
-E assista o vídeo em (2021-1): <https://furb.sharepoint.com/teams/CMP0154030120211/Documentos%20Compartilhados/General/Recordings/AulaRV%20(G-206)-20210414_183133-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1>
+<!-- E assista o vídeo em (2021-1): <https://furb.sharepoint.com/teams/CMP0154030120211/Documentos%20Compartilhados/General/Recordings/AulaRV%20(G-206)-20210414_183133-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1> -->
 
 ## Ponto positivos
 
@@ -55,7 +55,7 @@ E assista o vídeo em (2021-1): <https://furb.sharepoint.com/teams/CMP0154030120
 
 - gerador de código (parcial)
 - código "inchado"
-- pedaços de Assets desnecessários dentro do projeto (Hunter Pro)
+- pedaços de Assets desnecessários dentro do projeto [Hunter Pro](https://assetstore.unity.com/packages/tools/utilities/asset-hunter-pro-135296)  
 - nem sempre o refactor para novas versões funciona bem
 
 ## Boas Práticas em Unity
