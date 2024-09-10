@@ -66,6 +66,10 @@ E assista o vídeo em (2020-2): <https://web.microsoftstream.com/video/5c163263-
 
 <https://docs.unity3d.com/ScriptReference/>
 
+> [!WARNING]  
+> use a documentação da versão do Unity que está usando  
+
+
 ## Unity (camadas)
 
 - UnityEditor (IDE)
